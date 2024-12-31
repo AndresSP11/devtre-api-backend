@@ -1,0 +1,44 @@
+
+// Instalacion para que cuando se tenga en claro la parte del nodemon ya que este
+sirve para la ver durante la ejecucion del servidor y no depende de node node.js
+npm i --save-dev nodemon
+
+
+//Instalacion de la parte de TypeScript , en este caso es el Node correspondientte
+npm i -D typescript ts-node
+
+instalacion de ndoemon
+
+
+
+
+''node --watch (ARCHIVO INDEX.JS)''
+
+
+BLOCK DE NOTAS DE MONGO DB 
+
+https://cloud.mongodb.com/v2/674350de4e5415657dede573#/overview?automateSecurity=true&connectCluster=Cluster0
+
+
+mongoose - npm i mongoose
+
+ejecutable- npm i dotenv
+
+ejecutable- npm i colors
+
+EJECUTABLE- npm i bcrypt ---------require types
+
+ejecutable- npm i slug  -------requiere types 
+
+ejecutable- npm i slugify ------------
+
+Ejecutable npm i 
+
+ejecutable- npm i express-validator
+# HABILITACION DEL CORS # 
+
+npm i cors
+npm i -D @types/cors
+ejecutabla 
+User:root
+password:UHry4fSVSLymvgZG
